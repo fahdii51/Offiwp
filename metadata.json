@@ -1,0 +1,6 @@
+{
+  "name": "Offi Wp",
+  "description": "Offline peer-to-peer messaging application over Bluetooth with end-to-end encryption, voice notes, and group chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

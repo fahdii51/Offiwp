@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Offi Wp</string>
+    <string name="nav_chats">Chats</string>
+    <string name="nav_nearby">Nearby</string>
+    <string name="nav_profile">Profile</string>
+    <string name="scan_devices">Scan Nearby Devices</string>
+    <string name="nearby_now">Nearby Now</string>
+    <string name="bluetooth_off">Bluetooth is turned off</string>
+    <string name="turn_on_bluetooth">Turn On Bluetooth</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="permission_required_desc">Bluetooth and location permissions are required to discover nearby devices and chat offline.</string>
+    <string name="type_message">Type a message...</string>
+    <string name="offline_p2p_active">Offline P2P Mode Active</string>
+    <string name="encryption_active">AES-256 Encrypted</string>
+</resources>
